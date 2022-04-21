@@ -1,13 +1,11 @@
-import Navbar from '../Components/navBar'
+
 
 
 const Eperiences = () => {
     return ( 
-        <div>
-            <Navbar />
-            <h1>Experiences</h1>
-            
-        </div>
+        <section id="Experiences">
+            <h1>Eperiences</h1>
+        </section>
      );
 }
  
